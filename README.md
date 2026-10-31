@@ -15,6 +15,6 @@ Junior software developer in **Frankfurt am Main**. I build **C#/.NET backends**
 | 🚗 [**HajUsput**](https://github.com/karicamar/HajUsput) | Carpooling platform: .NET backend + Flutter app |
 
 **Stack:** C# · .NET · ASP.NET Core · Entity Framework Core · SQL · Docker · GitHub Actions · Flutter · Angular
-**Learning:** offensive security (TryHackMe, CompTIA PenTest+)
+**Security training:** 10 TryHackMe learning paths, including SOC Level 1, Jr Penetration Tester, Offensive Pentesting and Red Teaming ([certificates](https://github.com/karicamar/TryHackMe-Certificates)) · preparing for CompTIA PenTest+
 
 🌐 [karicamar.github.io](https://karicamar.github.io) · 💼 [LinkedIn](https://linkedin.com/in/amar-karic) · ✉️ karicamar.de@gmail.com
