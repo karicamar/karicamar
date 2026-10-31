@@ -9,7 +9,7 @@ Junior software developer in **Frankfurt am Main**. I build **C#/.NET backends**
 | | |
 |---|---|
 | 🔐 [**secure-auth-api**](https://github.com/karicamar/secure-auth-api) | Authentication service: refresh-token rotation with theft detection, TOTP 2FA, rate limiting. 42 tests |
-| 🛡️ [**log-sentinel**](https://github.com/karicamar/log-sentinel) | Lightweight SIEM: detects attacks in logs, mapped to MITRE ATT&CK. 54 tests |
+| 🛡️ [**log-sentinel**](https://github.com/karicamar/log-sentinel) | Lightweight SIEM: Windows events, SSH and web logs, 12 MITRE ATT&CK rules, incident correlation. 87 tests |
 | ✅ [**headerguard**](https://github.com/karicamar/headerguard) | DevSecOps scanner for website security headers, with SARIF for GitHub Code Scanning. 44 tests |
 | 🤖 [**job-hunter-agent**](https://github.com/karicamar/job-hunter-agent) | AI agent that finds and ranks IT jobs with the Claude API |
 | 🚗 [**HajUsput**](https://github.com/karicamar/HajUsput) | Carpooling platform: .NET backend + Flutter app |
