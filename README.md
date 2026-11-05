@@ -9,8 +9,8 @@ Junior software developer in **Frankfurt am Main**. I build **C#/.NET backends**
 | | |
 |---|---|
 | 🔐 [**secure-auth-api**](https://github.com/karicamar/secure-auth-api) | Authentication service: refresh-token rotation with theft detection, TOTP 2FA, rate limiting. 43 tests |
-| 🛡️ [**log-sentinel**](https://github.com/karicamar/log-sentinel) | Lightweight SIEM: Windows events, SSH and web logs, 12 MITRE ATT&CK rules, incident correlation. 87 tests |
-| 🎣 [**phishlens**](https://github.com/karicamar/phishlens) | Phishing email analyzer for SOC triage: lookalike domains, homographs, HTML smuggling, MITRE ATT&CK, defanged IOCs. 122 tests |
+| 🛡️ [**log-sentinel**](https://github.com/karicamar/log-sentinel) | Lightweight SIEM: Windows events, SSH and web logs, PhishLens verdicts, 14 MITRE ATT&CK rules, incident correlation. 96 tests |
+| 🎣 [**phishlens**](https://github.com/karicamar/phishlens) | Phishing email analyzer for SOC triage: lookalike domains, homographs, HTML smuggling, MITRE ATT&CK, defanged IOCs. 123 tests |
 | 📦 [**depradar**](https://github.com/karicamar/depradar) | Dependency scanner for NuGet + npm: CVSS v3.1, fix advice, SARIF for Code Scanning, CycloneDX SBOM. 107 tests |
 | ✅ [**headerguard**](https://github.com/karicamar/headerguard) | DevSecOps scanner for website security headers, with SARIF and ready-to-paste fixes. 52 tests |
 | 🚗 [**HajUsput**](https://github.com/karicamar/HajUsput) | Carpooling platform: .NET backend + Flutter app |
