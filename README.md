@@ -10,6 +10,7 @@ Junior software developer in **Frankfurt am Main**. I build **C#/.NET backends**
 |---|---|
 | 🏦 [**kontor**](https://github.com/karicamar/kontor) | Payments back office: double-entry ledger, four-eyes approval, AML and sanctions screening, Verification of Payee, SEPA pain.001 / camt.053 validated against ISO 20022 schemas, hash-chained audit trail. 148 tests |
 | 🚨 [**dora-desk**](https://github.com/karicamar/dora-desk) | ICT incident management under DORA: classification with the EU criteria, live BaFin reporting deadlines, four-eyes reports, LogSentinel import. Blazor. 113 tests |
+| ✅ [**role-call**](https://github.com/karicamar/role-call) | Access recertification for banks: leavers with active access, orphaned accounts, cross-application SoD conflicts, manager reviews that cannot be rubber-stamped, hash-chained evidence. 115 tests |
 | 🔐 [**secure-auth-api**](https://github.com/karicamar/secure-auth-api) | Authentication service: refresh-token rotation with theft detection, TOTP 2FA, rate limiting. 43 tests |
 | 🛡️ [**log-sentinel**](https://github.com/karicamar/log-sentinel) | Lightweight SIEM: Windows events, SSH and web logs, PhishLens and Kontor events, 15 MITRE ATT&CK rules, incident correlation. 100 tests |
 | 🎣 [**phishlens**](https://github.com/karicamar/phishlens) | Phishing email analyzer for SOC triage: lookalike domains, homographs, HTML smuggling, MITRE ATT&CK, defanged IOCs. 132 tests |
