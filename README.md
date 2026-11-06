@@ -15,6 +15,8 @@ Junior software developer in **Frankfurt am Main**. I build **C#/.NET backends**
 | 🛡️ [**log-sentinel**](https://github.com/karicamar/log-sentinel) | Lightweight SIEM: Windows events, SSH and web logs, PhishLens and Kontor events, 15 MITRE ATT&CK rules, incident correlation. 100 tests |
 | 🎣 [**phishlens**](https://github.com/karicamar/phishlens) | Phishing email analyzer for SOC triage: lookalike domains, homographs, HTML smuggling, MITRE ATT&CK, defanged IOCs. 132 tests |
 | 📦 [**depradar**](https://github.com/karicamar/depradar) | Dependency scanner for NuGet + npm: CVSS v3.1, fix advice, SARIF for Code Scanning, CycloneDX SBOM. 109 tests |
+| 🏗️ [**bauplan**](https://github.com/karicamar/bauplan) | Security review of Terraform plans for Azure: what a change destroys, which problems it introduces and which it fixes; 18 checks, SARIF on the .tf line. 145 tests |
+| 🔎 [**piiscout**](https://github.com/karicamar/piiscout) | Finds personal data (GDPR/DSGVO) in files, logs and exports, validated by check digits, always masked; data map, redaction, CI gate. 224 tests |
 | ✅ [**headerguard**](https://github.com/karicamar/headerguard) | DevSecOps scanner for website security headers, with SARIF and ready-to-paste fixes. 52 tests |
 | 🚗 [**HajUsput**](https://github.com/karicamar/HajUsput) | Carpooling platform: .NET backend + Flutter app |
 
