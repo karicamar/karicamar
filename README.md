@@ -9,6 +9,7 @@ Junior software developer in **Frankfurt am Main**. I build **C#/.NET backends**
 | | |
 |---|---|
 | 🏦 [**kontor**](https://github.com/karicamar/kontor) | Payments back office: double-entry ledger, four-eyes approval, AML and sanctions screening, Verification of Payee, SEPA pain.001 / camt.053 validated against ISO 20022 schemas, hash-chained audit trail. 148 tests |
+| 🚨 [**dora-desk**](https://github.com/karicamar/dora-desk) | ICT incident management under DORA: classification with the EU criteria, live BaFin reporting deadlines, four-eyes reports, LogSentinel import. Blazor. 113 tests |
 | 🔐 [**secure-auth-api**](https://github.com/karicamar/secure-auth-api) | Authentication service: refresh-token rotation with theft detection, TOTP 2FA, rate limiting. 43 tests |
 | 🛡️ [**log-sentinel**](https://github.com/karicamar/log-sentinel) | Lightweight SIEM: Windows events, SSH and web logs, PhishLens and Kontor events, 15 MITRE ATT&CK rules, incident correlation. 100 tests |
 | 🎣 [**phishlens**](https://github.com/karicamar/phishlens) | Phishing email analyzer for SOC triage: lookalike domains, homographs, HTML smuggling, MITRE ATT&CK, defanged IOCs. 132 tests |
@@ -16,7 +17,7 @@ Junior software developer in **Frankfurt am Main**. I build **C#/.NET backends**
 | ✅ [**headerguard**](https://github.com/karicamar/headerguard) | DevSecOps scanner for website security headers, with SARIF and ready-to-paste fixes. 52 tests |
 | 🚗 [**HajUsput**](https://github.com/karicamar/HajUsput) | Carpooling platform: .NET backend + Flutter app |
 
-**Stack:** C# · .NET · ASP.NET Core · Entity Framework Core · SQL · Docker · GitHub Actions · Flutter · Angular
+**Stack:** C# · .NET · ASP.NET Core · Blazor · Entity Framework Core · SQL · Docker · GitHub Actions · Flutter · Angular
 **Security training:** 10 TryHackMe learning paths, including SOC Level 1, Jr Penetration Tester, Offensive Pentesting and Red Teaming ([certificates](https://github.com/karicamar/TryHackMe-Certificates)) · preparing for CompTIA PenTest+
 
 🌐 [karicamar.github.io](https://karicamar.github.io) · 💼 [LinkedIn](https://linkedin.com/in/amar-karic) · ✉️ karicamar.de@gmail.com
