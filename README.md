@@ -17,6 +17,7 @@ Junior software developer in **Frankfurt am Main**. I build **C#/.NET backends**
 | 📦 [**depradar**](https://github.com/karicamar/depradar) | Dependency scanner for NuGet + npm: CVSS v3.1, fix advice, SARIF for Code Scanning, CycloneDX SBOM. 109 tests |
 | 🏗️ [**bauplan**](https://github.com/karicamar/bauplan) | Security review of Terraform plans for Azure: what a change destroys, which problems it introduces and which it fixes; 18 checks, SARIF on the .tf line. 145 tests |
 | 🩹 [**patchwerk**](https://github.com/karicamar/patchwerk) | Vulnerability prioritization: scanner findings + CISA KEV + EPSS + asset criticality → P1–P4 with deadlines, tracked between runs (new, overdue, fixed). 89 tests |
+| 🔑 [**kennwort**](https://github.com/karicamar/kennwort) | Password rules after NIST SP 800-63B / BSI for ASP.NET Core Identity: breached passwords via HIBP k-anonymity, "Sommer2024!", context words; German + English messages. 57 tests |
 | 🔎 [**piiscout**](https://github.com/karicamar/piiscout) | Finds personal data (GDPR/DSGVO) in files, logs and exports, validated by check digits, always masked; data map, redaction, CI gate. 224 tests |
 | ✅ [**headerguard**](https://github.com/karicamar/headerguard) | DevSecOps scanner for website security headers, with SARIF and ready-to-paste fixes. 52 tests |
 | 🚗 [**HajUsput**](https://github.com/karicamar/HajUsput) | Carpooling platform: .NET backend + Flutter app |
